@@ -27,7 +27,7 @@
 ### Клонируем репозиторий
 
 
-    $ git clone https://github.com/shatandv/GB-ML-Business-Project.git ml_api_project
+    $ git clone https://github.com/ennsyuliya/Machine-learning-business.git ml_project
     $ cd ml_api_project
 
 
